@@ -20,6 +20,7 @@ language_timezone_mapping = {
     "sl-SI": "Europe/Ljubljana",
     "th-TH": "Asia/Bangkok",
     "id-ID": "Asia/Jakarta",
+    "cs-CZ": "Europe/Prague",
 }
 
 languages = list(language_timezone_mapping.keys())
