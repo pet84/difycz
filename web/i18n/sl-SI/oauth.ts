@@ -1,27 +1,27 @@
 const translation = {
   tips: {
-    notLoggedIn: 'Ta aplikacija želi dostopati do vašega Dify Cloud računa',
-    loggedIn: 'Ta aplikacija želi dostopati do naslednjih informacij iz vašega računa Dify Cloud.',
-    common: 'Soočamo se z vašo zasebnostjo in te informacije bomo uporabili le za izboljšanje vaših izkušenj z našimi orodji za razvijalce.',
-    needLogin: 'Prosimo, prijavite se za avtorizacijo',
+    loggedIn: 'This app wants to access the following information from your Dify Cloud account.',
+    notLoggedIn: 'This app wants to access your Dify Cloud account',
+    needLogin: 'Please log in to authorize',
+    common: 'We respect your privacy and will only use this information to enhance your experience with our developer tools.',
   },
+  connect: 'Connect to',
+  continue: 'Continue',
+  switchAccount: 'Switch Account',
+  login: 'Login',
   scopes: {
-    timezone: 'Časovni pas',
+    name: 'Name',
     email: 'Email',
-    languagePreference: 'Jezikovna prednost',
     avatar: 'Avatar',
-    name: 'Ime',
+    languagePreference: 'Language Preference',
+    timezone: 'Timezone',
   },
   error: {
-    authAppInfoFetchFailed: 'Pridobivanje informacij o aplikaciji za avtorizacijo ni uspelo',
-    authorizeFailed: 'Avtentikacija je spodletela',
-    invalidParams: 'Neveljavni parametri',
+    invalidParams: 'Invalid parameters',
+    authorizeFailed: 'Authorization failed',
+    authAppInfoFetchFailed: 'Failed to fetch app info for authorization',
   },
-  login: 'Prijava',
-  unknownApp: 'Nepoznana aplikacija',
-  continue: 'Nadaljuj',
-  switchAccount: 'Preklopi račun',
-  connect: 'Poveži se z',
+  unknownApp: 'Unknown App',
 }
 
 export default translation
