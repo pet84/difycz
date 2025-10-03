@@ -146,6 +146,13 @@
       "prompt_name": "Indonesian",
       "example": "Halo, Dify!",
       "supported": true
+    },
+    {
+      "value": "cs-CZ",
+      "name": "Čeština (Česká republika)",
+      "prompt_name": "Czech",
+      "example": "Ahoj, Dify!",
+      "supported": true
     }
   ]
 }

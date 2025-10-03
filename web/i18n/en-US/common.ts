@@ -101,6 +101,7 @@ const translation = {
       hiIN: 'Hindi',
       trTR: 'Türkçe',
       faIR: 'Farsi',
+      csCZ: 'Czech',
     },
   },
   unit: {
