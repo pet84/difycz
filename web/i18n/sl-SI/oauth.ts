@@ -1,27 +1,27 @@
 const translation = {
   tips: {
-    loggedIn: 'This app wants to access the following information from your Dify Cloud account.',
-    notLoggedIn: 'This app wants to access your Dify Cloud account',
-    needLogin: 'Please log in to authorize',
-    common: 'We respect your privacy and will only use this information to enhance your experience with our developer tools.',
+    loggedIn: 'Tato aplikace chce získat následující informace z vašeho účtu Dify Cloud.',
+    notLoggedIn: 'Tato aplikace chce získat přístup k vašemu účtu Dify Cloud',
+    needLogin: 'Pro autorizaci se prosím přihlaste',
+    common: 'Respektujeme vaše soukromí a tyto informace použijeme pouze ke zlepšení vaší zkušenosti s našimi vývojářskými nástroji.',
   },
-  connect: 'Connect to',
-  continue: 'Continue',
-  switchAccount: 'Switch Account',
-  login: 'Login',
+  connect: 'Připojit k',
+  continue: 'Pokračovat',
+  switchAccount: 'Přepnout účet',
+  login: 'Přihlásit se',
   scopes: {
-    name: 'Name',
+    name: 'Jméno',
     email: 'Email',
     avatar: 'Avatar',
-    languagePreference: 'Language Preference',
-    timezone: 'Timezone',
+    languagePreference: 'Preferovaný jazyk',
+    timezone: 'Časové pásmo',
   },
   error: {
-    invalidParams: 'Invalid parameters',
-    authorizeFailed: 'Authorization failed',
-    authAppInfoFetchFailed: 'Failed to fetch app info for authorization',
+    invalidParams: 'Neplatné parametry',
+    authorizeFailed: 'Autorizace se nezdařila',
+    authAppInfoFetchFailed: 'Nepodařilo se načíst informace o aplikaci pro autorizaci',
   },
-  unknownApp: 'Unknown App',
+  unknownApp: 'Neznámá aplikace',
 }
 
 export default translation

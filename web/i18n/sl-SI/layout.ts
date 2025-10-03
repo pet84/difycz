@@ -1,7 +1,7 @@
 const translation = {
   sidebar: {
-    expandSidebar: 'Expand Sidebar',
-    collapseSidebar: 'Collapse Sidebar',
+    expandSidebar: 'Rozbalit postranní panel',
+    collapseSidebar: 'Sbalit postranní panel',
   },
 }
 
